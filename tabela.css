@@ -1,0 +1,23 @@
+
+
+ .tabela, th, td, caption{
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: left;
+  border: 1px solid rgb(160 160 160);
+ }
+ .titulo {
+  background-color: blue;
+  color: white;
+  text-align: center;
+ }
+ .nome {
+  background-color: rgb(47, 176, 250);
+ }
+
+.numero {
+  background-color: gray;
+}
+.informação{
+  background-color: rgb(184, 225, 249);
+}
